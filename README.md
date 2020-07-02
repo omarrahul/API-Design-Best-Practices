@@ -3,4 +3,5 @@ This project consists of best practices to follow for open API specification 3.0
 
 Article - https://medium.com/@rahul.omar/api-design-reality-over-conventions-875587f8f962
 
-<img src="images/workflow.png">
+![alt text](https://github.com/omarrahul/API-Design-Best-Practices/blob/master/images/Workflow.png)
+
