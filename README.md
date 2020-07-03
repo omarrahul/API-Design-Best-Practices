@@ -5,3 +5,5 @@ Article - https://medium.com/@rahul.omar/api-design-reality-over-conventions-875
 
 ![alt text](https://github.com/omarrahul/API-Design-Best-Practices/blob/master/images/Workflow.png)
 
+![alt text](https://github.com/omarrahul/API-Design-Best-Practices/blob/master/images/API%20Process.png)
+
